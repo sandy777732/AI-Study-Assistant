@@ -84,8 +84,6 @@ AI-Study-Assistant/
 │
 ├── screenshots/
 │   ├── homepage.png
-│   ├── chatbot.png
-│   ├── programming.png
 │   ├── study_material.png
 │   └── exam_tips.png
 │
