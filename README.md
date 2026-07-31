@@ -92,11 +92,7 @@ AI-Study-Assistant/
 ├── docs/
 │   └── Project_Report.pdf
 │
-├── prompts/
-│   └── system_prompt.txt
-│
-├── README.md
-└── LICENSE
+└── README.md
 ```
 
 ---
