@@ -121,7 +121,7 @@ Include screenshots of:
 
 ---
 
-## 🤖 Chat Bot Link 
+## 🤖 AI-Study-Assistant Link
 
 **https://t.me/AI_STUDY_ASSISTANT89_bot**
 
