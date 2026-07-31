@@ -123,9 +123,9 @@ Include screenshots of:
 
 ---
 
-## 👨‍💻 Author
+## 🤖 Chat Bot Link 
 
-**Sandeep Kumar Verma**
+**https://t.me/AI_STUDY_ASSISTANT89_bot**
 
 ---
 
